@@ -53,7 +53,6 @@ email_label.grid(column = 0 , row =2)
 
 entry2 = Entry(width=35)
 entry2.grid(column =1, row  =2, columnspan=2)
-entry2.insert(0,string="thisismadhesh@gmail.com")
 
 pw_label = Label(text ="Password:")
 pw_label.grid(column = 0 , row =3)
